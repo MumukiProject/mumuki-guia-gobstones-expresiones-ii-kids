@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: program
+  inspection: UsesIf
+- binding: program
+  inspection: Uses:Excavar
+- binding: Excavar
+  inspection: Uses:Sacar

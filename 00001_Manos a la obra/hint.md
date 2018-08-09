@@ -1,0 +1,1 @@
+Ya te dejamos una parte del procedimiento resuelta (que saque la bandera). Falta que _saque la bolita verde_. 
