@@ -1,0 +1,1 @@
+Tendremos que percutir varias veces, según la profundidad de la huella.
