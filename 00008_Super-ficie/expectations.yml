@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: DibujarPata
+  inspection: Uses:nroBolitas
+- binding: program
+  inspection: Uses:DibujarPata

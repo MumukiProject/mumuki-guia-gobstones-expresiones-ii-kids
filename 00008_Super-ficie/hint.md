@@ -1,0 +1,1 @@
+Como verás, se pueden multiplicar tres factores a la vez. Una de las multiplicaciones es el ancho por el largo, y luego a eso tenés que multiplicarlo por 4 como hacíamos antes.
