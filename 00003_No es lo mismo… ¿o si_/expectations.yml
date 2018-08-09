@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: program
+  inspection: UsesIf
+- binding: program
+  inspection: UsesRepeat
+- binding: program
+  inspection: Uses:+

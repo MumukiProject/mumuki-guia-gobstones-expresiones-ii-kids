@@ -1,0 +1,1 @@
+La profundidad de esta huella es 3, y te dijimos que siempre percutiremos una vez más para sacar la roca con la huella completa. En el `repetir` tendrás que poner esa suma, que sabemos que da 4, pero no siempre será así. No conoceremos en todos los casos la profundidad de la huella de antemano. Solo sabemos que siempre le sumaremos 1. 
