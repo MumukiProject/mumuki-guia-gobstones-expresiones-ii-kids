@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: program
+  inspection: UsesIf
+- binding: program
+  inspection: UsesRepeat
+- binding: program
+  inspection: Uses:+
+- binding: program
+  inspection: Uses:nroBolitas
