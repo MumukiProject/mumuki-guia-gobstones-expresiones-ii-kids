@@ -1,0 +1,1 @@
+Al tamaño de la huella que te dejamos tendrás que multiplicarlo por 4. La multiplicación está representada por un `*`. 
