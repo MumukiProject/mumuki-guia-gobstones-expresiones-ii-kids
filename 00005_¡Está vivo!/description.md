@@ -1,3 +1,6 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expresiones-ii-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 En los ejercicios anteriores te contamos las características de algunos de los dinosaurios más conocidos. Pero sería genial ver un dibujo de ellos; o mejor… ¡dibujémoslos nosotros! ¿Pero cómo haremos eso?
 
 Debemos tener en cuenta algunas cosas:

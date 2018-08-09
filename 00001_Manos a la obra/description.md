@@ -1,3 +1,6 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expresiones-ii-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 Como te contamos en la lección anterior, la paleontología consta de tres procesos: 
 
 * delimitar el terreno a estudiar :triangular_flag_on_post:

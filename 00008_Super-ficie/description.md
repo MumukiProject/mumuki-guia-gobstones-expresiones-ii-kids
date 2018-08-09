@@ -1,3 +1,6 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expresiones-ii-kids/master/assets/toolbox.xml">
+</gs-toolbox>
+
 ¡Excelente! Ya sabés muchos secretos de la paleontología. Aprendimos métodos de excavación según la profundidad que tuviera la huella y hasta dibujamos las patas de los dinosaurios a partir de las icnitas :paw_prints:. Pero nunca te dijimos cómo calculábamos el tamaño de las huellas; solo sabías que podrías sacarlo con el `número de bolitas verdes`. 
 
 Haremos ese cálculo de la misma forma que se mide una superficie rectangular. Por ejemplo, para medir la **superficie** de una mesa, del comedor, de la puerta o de cualquier cosa con forma de rectángulo, debemos **multiplicar** el **ancho por** el **largo**. :triangular_ruler: 
