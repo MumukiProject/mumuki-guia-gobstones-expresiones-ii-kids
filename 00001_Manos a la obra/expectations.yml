@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: UsesIf
-- binding: program
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
   inspection: Uses:Excavar
-- binding: Excavar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Excavar
   inspection: Uses:Sacar
