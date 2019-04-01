@@ -3,7 +3,7 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-expresiones-ii-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-En los ejercicios anteriores te contamos las características de algunos de los dinosaurios más conocidos :open_mouth:. Pero sería genial ver un dibujo de ellos; o mejor… ¡dibujémoslos nosotros :pencil2:! ¿Pero cómo haremos eso? :flushed::anguished:
+En los ejercicios anteriores te contamos las características de algunos de los dinosaurios más conocidos :open_mouth:. Pero sería genial ver un dibujo de ellos; o mejor… ¡dibujémoslos nosotros :pencil2:! ¿Pero cómo haremos eso? :flushed:
 
 Debemos tener en cuenta algunas cosas:
 
