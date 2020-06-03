@@ -5,6 +5,11 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Si revisamos la actividad anterior podremos responder: \n\n* ¿Cuántas
+  veces debía multiplicar el tamaño de la huella? \n* ¿Qué información podemos deducir
+  de los bloques que aparecen al comenzar este ejercicio? \n* ¿Qué nos falta completar
+  para cumplir el objetivo? \n* ¿Vamos a tener que utilizar números o vamos a querer
+  representarlos usando expresiones?"
 manual_evaluation: false
 choices: []
 name: Pata, patita...patón
