@@ -5,6 +5,13 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "En esta actividad queremos reemplazar un número conocido por la expresión
+  que nos indicará la cantidad de bolitas azules que hay en ese casillero del tablero.
+  Esta sustitución puede significar un salto de abstracción muy grande, por eso recomendamos
+  revisar distintos ejemplos y pensar cuántas bolitas azules habrá en cada casillero
+  y cómo se reflejará en nuestra solución. Luego, podemos reflexionar en grupo: \n\n*
+  ¿Cuál es la diferencia entre escribir 3 y la expresión que indica la cantidad de
+  bolitas que hay? \n* ¿Cómo podemos aprovecharla?"
 manual_evaluation: false
 choices: []
 name: Rápido y furioso
