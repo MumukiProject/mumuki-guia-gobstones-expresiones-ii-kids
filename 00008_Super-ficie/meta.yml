@@ -5,6 +5,9 @@ layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
+teacher_info: "Para pensar: \n\n* ¿Qué ventaja nos dan las expresiones cuando cambia
+  parte de los valores con los que queremos operar? \n* ¿Qué valores tendremos que
+  multiplicar por 4? \n* ¿Podemos representarlos con expresiones?"
 manual_evaluation: false
 choices: []
 name: Super-ficie
