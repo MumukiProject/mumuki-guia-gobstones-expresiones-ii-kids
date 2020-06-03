@@ -3,7 +3,14 @@ name: Huellas del pasado
 locale: es
 type: learning
 beta: false
-teacher_info: ''
+teacher_info: 'En la lección anterior pudimos combinar operadores lógicos y diferentes
+  condiciones para hacer expresiones que también podían ser verdaderas o falsas, y
+  nos servían para evaluar el contexto al usar alternativas condicionales. En este
+  caso vamos a combinar valores numéricos y explorar otras formas de expresarlos.
+  Si bien es una lección corta, nos presenta desafíos cada vez más abstractos. Por
+  eso recomendamos abordar con detenimiento las actividades y aprovechar el ojito
+  junto al tablero :eye: para poder visualizar las bolitas y relacionarlas con sus
+  representaciones gráficas.'
 language: gobstones
 id_format: "%05d"
 order:
